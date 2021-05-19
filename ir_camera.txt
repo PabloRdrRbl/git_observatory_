@@ -1,5 +1,6 @@
 - aperture mask
 - collimator
+- Anti-reflective filter
 - filter wheel
 - camera optics
 - detector
